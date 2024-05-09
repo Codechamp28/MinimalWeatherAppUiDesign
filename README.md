@@ -1,2 +1,5 @@
-![Screenshot 2024-05-08 164911](https://github.com/Codechamp28/MinimalWeatherAppUiDesign/assets/90027818/11411d57-82b9-44b9-8fff-55ab92423484)
-live link : https://minimal-weather-app-ui-design.vercel.app/
+
+![5](https://github.com/Codechamp28/MinimalWeatherAppUiDesign/assets/90027818/03cd7347-69cb-4f6c-8189-2b941724a5e2)
+
+
+live link: https://minimal-weather-app-ui-design.vercel.app/
